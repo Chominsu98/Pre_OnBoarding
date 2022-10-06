@@ -8,3 +8,6 @@
 # 🚩프리온보딩 2번째 과제
 > ### React와 HistoryApi 사용하여 spa router 기능 구현하기
 
+![image](https://user-images.githubusercontent.com/37100067/194370822-b49022c0-dc20-4b07-990f-a17f257b2a2b.png)
+![image](https://user-images.githubusercontent.com/37100067/194370888-0e3fdd56-f8ed-4c98-818e-6a4807a0a12d.png)
+
